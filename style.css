@@ -26,9 +26,10 @@ body
 	position: absolute;
 	bottom: 590px;
 	right: 0px;
-	left: 270px;
+	left: 256px;
 	color: black;
 }
+
 #tab2
 {
 	border-top-left-radius: 17;
@@ -42,7 +43,7 @@ body
 	position: absolute;
 	bottom: 590px;
 	right: 0px;
-	left: 360px;
+	left: 346px;
 	color: black;
 }
 
@@ -59,7 +60,7 @@ body
 	position: absolute;
 	bottom: 590px;
 	right: 0px;
-	left: 450px;
+	left: 436px;
 	color: black;
 }
 
