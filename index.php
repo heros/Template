@@ -10,7 +10,7 @@
  <body>
 	<a href="index.php"><div id="tab1" >Home</div></a>
 	<a href="forum.php"><div id="tab2" >Forum</div></a>
-	<a href="online.php"><div id="tab3" >UCP</div></a>
+	<a href="login.php"><div id="tab3" >UCP</div></a>
 	<div id="headdiv" ></div>
 	
 	<div id="bodydiv" >
