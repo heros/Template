@@ -25,9 +25,10 @@ body
 	position: absolute;
 	bottom: 590px;
 	right: 0px;
-	left: 270px;
+	left: 256px;
 	color: black;
 }
+
 #tab2
 {
 	border-top-left-radius: 17;
@@ -41,7 +42,7 @@ body
 	position: absolute;
 	bottom: 590px;
 	right: 0px;
-	left: 360px;
+	left: 346px;
 	color: black;
 }
 
@@ -58,7 +59,7 @@ body
 	position: absolute;
 	bottom: 590px;
 	right: 0px;
-	left: 450px;
+	left: 436px;
 	color: black;
 }
 
@@ -198,6 +199,7 @@ p
 {
 	font-size: 13px;
 	font-family: arial, verdana, tahoma, "sans-serif";
+<<<<<<< HEAD
 	line-height: 1.5em;
 }
 
@@ -278,3 +280,6 @@ p
             background-image: -moz-linear-gradient(top left 90deg, #e77817 0%, #b6e2ff 100%);
             background-image: linear-gradient(top left 90deg, #6ec2e8 0%, #b6e2ff 100%);
         }
+=======
+}
+>>>>>>> 6a2a1cd9fdcac1913d9b8ca5877f245ee070d621
